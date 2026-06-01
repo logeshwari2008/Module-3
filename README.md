@@ -20,6 +20,7 @@ Output:
 <img width="335" height="164" alt="WhatsApp Image 2026-06-01 at 9 27 36 AM" src="https://github.com/user-attachments/assets/af4cb250-470c-4e4f-8b90-bb9d7d4ea2e0" />
 
 Result:
+
 Thus to write a Python program that calculates the sum of all elements in a list is done successfully.
 
 ## Regex in Python: Filter Words Without the Letter 'e'
@@ -40,6 +41,7 @@ If not, append the word to l1.
 Print the final filtered list.
 
 🧾 Program
+
 ```
 items = ['goal', 'new', 'user', 'sit', 'eat', 'dinner']
 
@@ -82,9 +84,11 @@ def remove(s):
 ```
 
 Output:
+
 <img width="656" height="206" alt="WhatsApp Image 2026-06-01 at 9 34 54 AM" src="https://github.com/user-attachments/assets/98125369-db8a-4d1a-88fb-64a50ef88aaf" />
 
 Result:
+
 Thus to write a Python program that accepts a string and removes the character at a specified index is done successfully.
 
 
@@ -121,6 +125,7 @@ Output:
 <img width="902" height="238" alt="WhatsApp Image 2026-06-01 at 9 43 50 AM" src="https://github.com/user-attachments/assets/84f29fcd-5773-47c3-80ec-15c2cc267675" />
 
 Result:
+
 Thus to write a Python program to check whether the string "malayalam" is a palindrome or not, without using built-in palindrome checking functions is done successfully.
 
 ## Tuple in Python: Check Element Existence
@@ -145,6 +150,7 @@ print( 8 in tuplex)
 ```
 
 Output:
+
 <img width="484" height="212" alt="image" src="https://github.com/user-attachments/assets/9e2cff63-c8a2-4193-9060-461c1f4eef13" />
 
 
